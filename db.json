@@ -1,0 +1,54 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Laskar Pelangi",
+      "author": "Andrea Hirata",
+      "genre": "Fiksi",
+      "status": "Sudah Dibaca"
+    },
+    {
+      "id": "2",
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "Self-Development",
+      "status": "Ingin Dibaca"
+    },
+    {
+      "id": "3",
+      "title": "Filosofi Teras",
+      "author": "Henry Manampiring",
+      "genre": "Filsafat",
+      "status": "Sedang Dibaca"
+    },
+    {
+      "id": "35cf",
+      "title": "AKU",
+      "author": "Chairil Anwar",
+      "genre": "Biografi",
+      "status": "Sedang Dibaca"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "email": "shilpaazahra@student.uir.ac.id",
+      "password": "123456",
+      "name": "Shilpa Azahra"
+    }
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "content": "Ohh aku sangat menyukai cerita Laskar Pelangi."
+    },
+    {
+      "id": "2",
+      "content": "Membaca buku filsafat kenapa tidak?"
+    },
+    {
+      "id": "2bf3",
+      "content": "Buku AKU karya Chairil Anwar ternyata sangat menarik teman"
+    }
+  ]
+}
